@@ -54,7 +54,11 @@ export default function Home() {
   }
 
   function getRandInt() {
-    setRandInt(Math.floor(Math.random() * movies.length));
+    let tryrandInt = Math.floor(Math.random() * movies.length);
+    while (randInt === tryrandInt) {
+      tryrandInt = Math.floor(Math.random() * movies.length);
+    }
+    setRandInt(tryrandInt);
   }
 
   return (

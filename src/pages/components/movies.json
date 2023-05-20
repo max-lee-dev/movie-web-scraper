@@ -25,5 +25,212 @@
     "runtime": "87 min",
     "description": "(1975)",
     "image": "https://m.media-amazon.com/images/M/MV5BMGRjOGJhNDctZWYyNi00YzE1LWIwMGQtNTI1MDU1OTNmZjhlXkEyXkFqcGdeQXVyMTA1MzE1MjA4._V1_.jpg"
+  },
+  {
+    "title": "The Chaos Class",
+    "rating": " 9.2",
+    "year": "(1975)",
+    "genre": "Comedy, Drama",
+    "runtime": "87 min",
+    "description": "(1975)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGRjOGJhNDctZWYyNi00YzE1LWIwMGQtNTI1MDU1OTNmZjhlXkEyXkFqcGdeQXVyMTA1MzE1MjA4._V1_.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "rating": " 9.0",
+    "year": "(2008)",
+    "genre": "Action, Crime, Drama",
+    "runtime": "152 min",
+    "description": "(2008)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+  },
+  {
+    "title": "Schindler's List",
+    "rating": " 9.0",
+    "year": "(1993)",
+    "genre": "Biography, Drama, History",
+    "runtime": "195 min",
+    "description": "(1993)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+  },
+  {
+    "title": "The Godfather Part II",
+    "rating": " 9.0",
+    "year": "(1974)",
+    "genre": "Crime, Drama",
+    "runtime": "202 min",
+    "description": "(1974)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "title": "12 Angry Men",
+    "rating": " 9.0",
+    "year": "(1957)",
+    "genre": "Crime, Drama",
+    "runtime": "96 min",
+    "description": "(1957)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "rating": " 9.0",
+    "year": "(2003)",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "201 min",
+    "description": "(2003)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "title": "Mirror Game",
+    "rating": " 9.0",
+    "year": "(2016)",
+    "genre": "Crime, Mystery, Thriller",
+    "runtime": "147 min",
+    "description": "(2016)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQzYjk2ZTYtM2FhNi00ODQ1LWI0YWYtZDVhMzRiN2ZlMzQ5XkEyXkFqcGdeQXVyMTE3MzIyMDM5._V1_.jpg"
+  },
+  {
+    "title": "Daman",
+    "rating": " 9.0",
+    "year": "(2022)",
+    "genre": "Adventure, Drama",
+    "runtime": "121 min",
+    "description": "(2022)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEwNDg1NWYtODNjMi00ODRiLWI1MzktYTc4MzMxOGQ3YzgzXkEyXkFqcGdeQXVyMTQ3MzQ4MDE0._V1_.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "rating": " 8.9",
+    "year": "(1994)",
+    "genre": "Crime, Drama",
+    "runtime": "154 min",
+    "description": "(1994)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
+    "rating": " 8.9",
+    "year": "(2021)",
+    "genre": "Animation, Action, Fantasy",
+    "runtime": "87 min",
+    "description": "(2021)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNThhYWViMjMtNDMzZC00YjliLTllYWYtYTdlOTM1MmNjMDE4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  },
+  {
+    "title": "Tosun Pasa",
+    "rating": " 8.9",
+    "year": "(1976)",
+    "genre": "Comedy",
+    "runtime": "90 min",
+    "description": "(1976)",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2VhZjkxZDAtOTQwMC00Yjk0LTgyOTQtNzQ3YzQ4NGFmOGI5XkEyXkFqcGdeQXVyMjQ2OTI2MzU@._V1_.jpg"
+  },
+  {
+    "title": "The Chaos Class Failed the Class",
+    "rating": " 8.9",
+    "year": "(1975)",
+    "genre": "Comedy",
+    "runtime": "91 min",
+    "description": "(1975)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQ0OTZkYzQtMzg4YS00ZDg0LWI1NDgtODA3ZTg0YTVkNzFlXkEyXkFqcGdeQXVyMTA1MzE1MjA4._V1_.jpg"
+  },
+  {
+    "title": "Inception",
+    "rating": " 8.8",
+    "year": "(2010)",
+    "genre": "Action, Adventure, Sci-Fi",
+    "runtime": "148 min",
+    "description": "(2010)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating": " 8.8",
+    "year": "(2001)",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "178 min",
+    "description": "(2001)",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
+  },
+  {
+    "title": "Fight Club",
+    "rating": " 8.8",
+    "year": "(1999)",
+    "genre": "Drama",
+    "runtime": "139 min",
+    "description": "(1999)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "rating": " 8.8",
+    "year": "(1994)",
+    "genre": "Drama, Romance",
+    "runtime": "142 min",
+    "description": "(1994)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "rating": " 8.8",
+    "year": "(1966)",
+    "genre": "Adventure, Western",
+    "runtime": "178 min",
+    "description": "(1966)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "rating": " 8.8",
+    "year": "(2002)",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "179 min",
+    "description": "(2002)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+  },
+  {
+    "title": "Jai Bhim",
+    "rating": " 8.8",
+    "year": "(2021)",
+    "genre": "Crime, Drama, Mystery",
+    "runtime": "164 min",
+    "description": "(2021)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg"
+  },
+  {
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "rating": " 8.8",
+    "year": "(2006)",
+    "genre": "Action, Crime, Thriller",
+    "runtime": "247 min",
+    "description": "(2006)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmFkNTc1MWYtYTVlNy00NmZmLTkzMjAtMWM0N2FmMWRkNWNhXkEyXkFqcGdeQXVyMTE5NDkxMA@@._V1_.jpg"
+  },
+  {
+    "title": "777 Charlie",
+    "rating": " 8.8",
+    "year": "(2022)",
+    "genre": "Adventure, Comedy, Drama",
+    "runtime": "164 min",
+    "description": "(2022)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDhhMjBlMWYtMDVlMy00ZjM3LTg3MTUtZDg0NjA0YzcxOGY4XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_.jpg"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba - Mt. Natagumo Arc",
+    "rating": " 8.8",
+    "year": "(2020)",
+    "genre": "Animation, Action, Fantasy",
+    "runtime": "138 min",
+    "description": "(2020)",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EwNTUwYWItZTY4ZC00N2Q1LWFhZWQtNjMwMDBkZDVmYThjXkEyXkFqcGdeQXVyOTA2OTk0MDg@._V1_.jpg"
+  },
+  {
+    "title": "Rocketry: The Nambi Effect",
+    "rating": " 8.8",
+    "year": "(2022)",
+    "genre": "Biography, Drama",
+    "runtime": "157 min",
+    "description": "(2022)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTk2MjUxMjEtZDU5OC00MzYxLTkwMWYtMGM5YWQ0MWMyN2I1XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_.jpg"
   }
 ]
