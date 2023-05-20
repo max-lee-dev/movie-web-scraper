@@ -116,10 +116,18 @@ export default function Home() {
             </Text>
 
             <Box paddingTop="50px">
+              <Center>
+                <Box>
+                  <Button
+                    _hover={{ bg: "#5471a1" }}
+                    bg="#7da4e3"
+                    onClick={() => getRandInt()}
+                  >
+                    New movie
+                  </Button>
+                </Box>
+              </Center>
               <RandomMovie />
-            </Box>
-            <Box>
-              <Button onClick={() => getRandInt()}>New movie</Button>
             </Box>
           </VStack>
         </Center>
