@@ -5,7 +5,11 @@ import { ChakraProvider, Box } from "@chakra-ui/react";
 function App() {
   return (
     <ChakraProvider>
-      <Box bgColor="red" minH="100vh">
+      <Box
+        bgGradient="linear(rgba(21, 83,
+          117, 0.69) 0%, rgba(78, 130, 147, 0.8) 100%);"
+        minH="100vh"
+      >
         <Home />
       </Box>
     </ChakraProvider>
