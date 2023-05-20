@@ -1,6 +1,15 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import movies from "./components/movies.json";
-import { Box, Center, HStack, VStack, Text, Button } from "@chakra-ui/react";
+import {
+  Box,
+  Center,
+  HStack,
+  VStack,
+  Text,
+  Button,
+  Tooltip,
+  Divider,
+} from "@chakra-ui/react";
 
 export default function Home() {
   const [randInt, setRandInt] = useState(0);
@@ -17,17 +26,48 @@ export default function Home() {
           </HStack>
 
           <Box>
-            <img width="200" src={randomMovie.image} alt={randomMovie.title} />
+            <img width="300" src={randomMovie.image} alt={randomMovie.title} />
           </Box>
-          <Box>
+          <Box fontWeight="400">
             <Center>
-              <Box paddingBottom="0px" fontSize="24px">
+              <Box paddingBottom="0px" fontSize="26px">
                 <HStack>
                   {" "}
-                  <Box paddingTop="8px">
-                    <ion-icon name="time-outline"></ion-icon>{" "}
+                  <Box paddingTop="8px" width="120px">
+                    <HStack>
+                      <Tooltip label="Runtime">
+                        <Box fontSize="32px">
+                          <ion-icon name="time-outline"></ion-icon>{" "}
+                        </Box>
+                      </Tooltip>
+
+                      <Text fontSize="22px" paddingBottom="10px">
+                        {randomMovie.runtime}
+                      </Text>
+                    </HStack>
                   </Box>
-                  <Text>{randomMovie.runtime}</Text>
+                  <Divider
+                    orientation="vertical"
+                    borderWidth="1px"
+                    borderColor="black"
+                    height={6}
+                  />
+                  <Tooltip label="Copy runtime to clipboard">
+                    <Button
+                      minH="40px"
+                      maxW="25px"
+                      bgColor="transparent"
+                      onClick={() => {
+                        navigator.clipboard.writeText(
+                          randomMovie.runtime.split(" ")[0]
+                        );
+                      }}
+                    >
+                      <Box fontSize="24px" paddingTop="5px">
+                        <ion-icon name="clipboard-outline"></ion-icon>
+                      </Box>
+                    </Button>
+                  </Tooltip>
                 </HStack>
               </Box>
             </Center>
@@ -61,17 +101,25 @@ export default function Home() {
     setRandInt(tryrandInt);
   }
 
+  useEffect(() => {
+    getRandInt();
+    // eslint-disable-next-line
+  }, []);
+
   return (
     <Center>
-      <Box width="70%" className="font">
+      <Box minH="95vh" width="70%" className="font">
         <Center>
           <VStack>
-            <Text fontSize="40px">movie-web-scraper</Text>
-            <Box>
-              <Button onClick={() => getRandInt()}>New movie</Button>
-            </Box>
+            <Text fontWeight="900" fontSize="40px">
+              movie-web-scraper
+            </Text>
+
             <Box paddingTop="50px">
               <RandomMovie />
+            </Box>
+            <Box>
+              <Button onClick={() => getRandInt()}>New movie</Button>
             </Box>
           </VStack>
         </Center>
