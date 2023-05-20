@@ -19,14 +19,14 @@ export default function Home() {
       <Box>
         <VStack>
           <HStack>
-            <Text maxW="1000px" fontSize="30px" fontWeight="600">
+            <Text maxW="1000px" fontSize="25px" fontWeight="600">
               {randomMovie.title}
             </Text>
             <Text>{randomMovie.year}</Text>
           </HStack>
 
           <Box>
-            <img width="300" src={randomMovie.image} alt={randomMovie.title} />
+            <img width="250" src={randomMovie.image} alt={randomMovie.title} />
           </Box>
           <Box fontWeight="400">
             <Center>
@@ -111,7 +111,7 @@ export default function Home() {
       <Box minH="95vh" width="70%" className="font">
         <Center>
           <VStack>
-            <Text fontWeight="900" fontSize="40px">
+            <Text fontWeight="900" fontSize="30px">
               movie-web-scraper
             </Text>
 
