@@ -1,0 +1,29 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "rating": " 9.3",
+    "year": "(1994)",
+    "genre": "Drama",
+    "runtime": "142 min",
+    "description": "(1994)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "rating": " 9.2",
+    "year": "(1972)",
+    "genre": "Crime, Drama",
+    "runtime": "175 min",
+    "description": "(1972)",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "title": "The Chaos Class",
+    "rating": " 9.2",
+    "year": "(1975)",
+    "genre": "Comedy, Drama",
+    "runtime": "87 min",
+    "description": "(1975)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGRjOGJhNDctZWYyNi00YzE1LWIwMGQtNTI1MDU1OTNmZjhlXkEyXkFqcGdeQXVyMTA1MzE1MjA4._V1_.jpg"
+  }
+]
