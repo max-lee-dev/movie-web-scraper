@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import movies from "./components/movies.json";
+import logo from "./components/movie.png";
 import {
   Box,
   Center,
@@ -9,6 +10,7 @@ import {
   Button,
   Tooltip,
   Divider,
+  Icon,
 } from "@chakra-ui/react";
 
 export default function Home() {
@@ -16,7 +18,7 @@ export default function Home() {
   function RandomMovie() {
     let randomMovie = movies[randInt];
     return (
-      <Box>
+      <Box color="#2e2323">
         <VStack>
           <HStack>
             <Text maxW="1000px" fontSize="25px" fontWeight="600">
@@ -24,53 +26,60 @@ export default function Home() {
             </Text>
             <Text>{randomMovie.year}</Text>
           </HStack>
+          <Center>
+            <Box>
+              <Button
+                _hover={{ bg: "#ff685e", color: "white" }}
+                bg="#ffe0de"
+                onClick={() => getRandInt()}
+                fontSize="24px"
+                fontWeight="400"
+                color="black"
+                width="300px"
+              >
+                New movie
+              </Button>
+            </Box>
+          </Center>
 
           <Box>
-            <img width="250" src={randomMovie.image} alt={randomMovie.title} />
+            <img width="300" src={randomMovie.image} alt={randomMovie.title} />
           </Box>
-          <Box fontWeight="400">
-            <Center>
-              <Box paddingBottom="0px" fontSize="26px">
-                <HStack>
-                  {" "}
-                  <Box paddingTop="8px" width="120px">
-                    <HStack>
-                      <Tooltip label="Runtime">
-                        <Box fontSize="32px">
-                          <ion-icon name="time-outline"></ion-icon>{" "}
-                        </Box>
-                      </Tooltip>
-
-                      <Text fontSize="22px" paddingBottom="10px">
-                        {randomMovie.runtime}
-                      </Text>
-                    </HStack>
-                  </Box>
-                  <Divider
-                    orientation="vertical"
-                    borderWidth="1px"
-                    borderColor="black"
-                    height={6}
-                  />
-                  <Tooltip label="Copy runtime to clipboard">
-                    <Button
-                      minH="40px"
-                      maxW="25px"
-                      bgColor="transparent"
-                      onClick={() => {
-                        navigator.clipboard.writeText(
-                          randomMovie.runtime.split(" ")[0]
-                        );
-                      }}
-                    >
-                      <Box fontSize="24px" paddingTop="5px">
-                        <ion-icon name="clipboard-outline"></ion-icon>
+          <Box width="300px" fontWeight="400">
+            <Box paddingBottom="0px" fontSize="26px">
+              <HStack justifyContent="space-between">
+                {" "}
+                <Box paddingTop="8px" minWidth="120px">
+                  <HStack>
+                    <Tooltip label="Runtime">
+                      <Box fontSize="32px">
+                        <ion-icon name="time-outline"></ion-icon>{" "}
                       </Box>
-                    </Button>
-                  </Tooltip>
-                </HStack>
-              </Box>
-            </Center>
+                    </Tooltip>
+
+                    <Text fontSize="22px" paddingBottom="10px">
+                      {randomMovie.runtime}
+                    </Text>
+                  </HStack>
+                </Box>
+                <Tooltip label="Copy runtime to clipboard">
+                  <Button
+                    minH="40px"
+                    maxW="25px"
+                    bgColor="transparent"
+                    onClick={() => {
+                      navigator.clipboard.writeText(
+                        randomMovie.runtime.split(" ")[0]
+                      );
+                    }}
+                  >
+                    <Box fontSize="24px" paddingTop="5px">
+                      <ion-icon name="clipboard-outline"></ion-icon>
+                    </Box>
+                  </Button>
+                </Tooltip>
+              </HStack>
+            </Box>
             <Box paddingBottom="15px" fontSize="18px">
               <HStack>
                 {" "}
@@ -111,22 +120,22 @@ export default function Home() {
       <Box minH="95vh" width="70%" className="font">
         <Center>
           <VStack>
-            <Text fontWeight="900" fontSize="30px">
-              movie-web-scraper
-            </Text>
+            <HStack>
+              <Box
+                color="#ff685e"
+                fontSize="40px"
+                paddingTop="16px"
+                paddingRight="3px"
+              >
+                <ion-icon name="videocam"></ion-icon>{" "}
+              </Box>
+
+              <Text color="#ffe0de" fontWeight="900" fontSize="30px">
+                movie-web-scraper
+              </Text>
+            </HStack>
 
             <Box paddingTop="50px">
-              <Center>
-                <Box>
-                  <Button
-                    _hover={{ bg: "#5471a1" }}
-                    bg="#7da4e3"
-                    onClick={() => getRandInt()}
-                  >
-                    New movie
-                  </Button>
-                </Box>
-              </Center>
               <RandomMovie />
             </Box>
           </VStack>
