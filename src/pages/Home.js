@@ -24,7 +24,7 @@ export default function Home() {
             <Text maxW="1000px" fontSize="25px" fontWeight="600">
               {randomMovie.title}
             </Text>
-            <Text>{randomMovie.year}</Text>
+            <Text>{randomMovie.year} </Text>
           </HStack>
           <Center>
             <Box>
