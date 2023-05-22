@@ -13869,5 +13869,1275 @@
     "runtime": "101 min",
     "description": "(1984)",
     "image": "https://m.media-amazon.com/images/M/MV5BNjIzMWIzMmUtM2E0MC00OTExLWIzYzEtNWIzNzg3M2VjZmQ5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+  },
+
+  {
+    "title": "Penguins of Madagascar",
+    "rating": " 6.6",
+    "year": "(2014)",
+    "genre": "Animation, Action, Adventure",
+    "runtime": "92 min",
+    "description": "(2014)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1_.jpg"
+  },
+  {
+    "title": "The Rules of Attraction",
+    "rating": " 6.6",
+    "year": "(2002)",
+    "genre": "Comedy, Drama, Romance",
+    "runtime": "110 min",
+    "description": "(2002)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc4OTZlOWMtYjc0NC00MmU5LWJjNGEtOGE2OTE3YzgyN2JlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "21 Bridges",
+    "rating": " 6.6",
+    "year": "(2019)",
+    "genre": "Action, Crime, Drama",
+    "runtime": "99 min",
+    "description": "(2019)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjVjMDk5NWUtMWFlMy00ODdkLTkwNTgtNWRhNGQ4YzdhMGMzXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+  },
+  {
+    "title": "Far and Away",
+    "rating": " 6.6",
+    "year": "(1992)",
+    "genre": "Adventure, Drama, Romance",
+    "runtime": "140 min",
+    "description": "(1992)",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2FiZTMzOGQtODQ2Ny00ZGFlLThiMDgtMTdhMjg4ZWM1MWMzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+  },
+  {
+    "title": "The Manchurian Candidate",
+    "rating": " 6.6",
+    "year": "(2004)",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "runtime": "129 min",
+    "description": "(2004)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDU2YjA4MmItODk0OS00OTllLWFmNzUtMTg2ZmM3YWYzOGFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+  },
+  {
+    "title": "Oliver & Company",
+    "rating": " 6.6",
+    "year": "(1988)",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "74 min",
+    "description": "(1988)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI5NTE2OTQtN2YyZi00OTI5LTljMmEtMDZlMTk0MzNmZmY5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "The Wave",
+    "rating": " 6.6",
+    "year": "(2015)",
+    "genre": "Action, Drama, Thriller",
+    "runtime": "105 min",
+    "description": "(2015)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTE2NmNjOWMtZWJmNC00ZmFiLWI3ZDgtYWU3MWZhOGVhMTlkXkEyXkFqcGdeQXVyMjg0NDI1MjU@._V1_.jpg"
+  },
+  {
+    "title": "The Mosquito Coast",
+    "rating": " 6.6",
+    "year": "(1986)",
+    "genre": "Adventure, Drama, Thriller",
+    "runtime": "117 min",
+    "description": "(1986)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzc3NzZmOWQtMWIwNS00MGNhLTllYjMtY2ZmYzBmZDYxZGVlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg"
+  },
+  {
+    "title": "Shoot 'Em Up",
+    "rating": " 6.6",
+    "year": "(2007)",
+    "genre": "Action, Comedy, Thriller",
+    "runtime": "86 min",
+    "description": "(2007)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEwMDA1MDUwNl5BMl5BanBnXkFtZTcwMDQzMzM1MQ@@._V1_.jpg"
+  },
+  {
+    "title": "Shanghai Noon",
+    "rating": " 6.6",
+    "year": "(2000)",
+    "genre": "Action, Adventure, Comedy",
+    "runtime": "110 min",
+    "description": "(2000)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI0MjE2MzUwOV5BMl5BanBnXkFtZTYwMTk5NjU3._V1_.jpg"
+  },
+  {
+    "title": "Dreamgirls",
+    "rating": " 6.6",
+    "year": "(2006)",
+    "genre": "Drama, Music, Musical",
+    "runtime": "130 min",
+    "description": "(2006)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1MzIwNDQyNl5BMl5BanBnXkFtZTcwNDEwNzYyMw@@._V1_.jpg"
+  },
+  {
+    "title": "The Polar Express",
+    "rating": " 6.6",
+    "year": "(2004)",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "100 min",
+    "description": "(2004)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_.jpg"
+  },
+  {
+    "title": "The Aeronauts",
+    "rating": " 6.6",
+    "year": "(2019)",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "100 min",
+    "description": "(2019)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmJkM2M0OTUtNGI3NC00ZTNiLWI4MDUtMGI5MzM1MmQyNTliXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+  },
+  {
+    "title": "The Postman Always Rings Twice",
+    "rating": " 6.6",
+    "year": "(1981)",
+    "genre": "Crime, Drama, Romance",
+    "runtime": "122 min",
+    "description": "(1981)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDUyNmY3NDAtMzY3MC00YjgxLWEzMWMtODU3YjhkNTEzMGY2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Rare Exports",
+    "rating": " 6.6",
+    "year": "(2010)",
+    "genre": "Adventure, Fantasy, Horror",
+    "runtime": "84 min",
+    "description": "(2010)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM4NzkxMDM4N15BMl5BanBnXkFtZTcwMTI1NzQwNA@@._V1_.jpg"
+  },
+  {
+    "title": "Vantage Point",
+    "rating": " 6.6",
+    "year": "(2008)",
+    "genre": "Action, Crime, Drama",
+    "runtime": "90 min",
+    "description": "(2008)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI3MjI1NjMzNV5BMl5BanBnXkFtZTYwNDc4Njk3._V1_.jpg"
+  },
+  {
+    "title": "Tommy",
+    "rating": " 6.6",
+    "year": "(1975)",
+    "genre": "Drama, Musical",
+    "runtime": "111 min",
+    "description": "(1975)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjlhZWMyNjItNWU5OS00NGQzLWI4YWYtYThjYjk3OTlmZDA5XkEyXkFqcGdeQXVyMzMyODMwMTI@._V1_.jpg"
+  },
+  {
+    "title": "Fame",
+    "rating": " 6.6",
+    "year": "(1980)",
+    "genre": "Drama, Music, Musical",
+    "runtime": "134 min",
+    "description": "(1980)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmQ1NTNjN2YtY2IxMS00MjMxLThhM2ItNmFlOGM1NjcxY2EzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "From Beyond",
+    "rating": " 6.6",
+    "year": "(1986)",
+    "genre": "Horror, Sci-Fi",
+    "runtime": "85 min",
+    "description": "(1986)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjc3ZjQ4YWQtNGFlOS00YmZiLTllZDctYTM3MDNmMTY4N2VjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "Dragonslayer",
+    "rating": " 6.6",
+    "year": "(1981)",
+    "genre": "Action, Adventure, Fantasy",
+    "runtime": "109 min",
+    "description": "(1981)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmNhNjUxN2EtMTRkNi00YzAzLTg5ODgtZjc2ZTUyNDBjODljXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+  },
+  {
+    "title": "The Eyes of Tammy Faye",
+    "rating": " 6.6",
+    "year": "(2021)",
+    "genre": "Biography, Drama, Romance",
+    "runtime": "126 min",
+    "description": "(2021)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTg3ZTU5YjAtMGM2OC00YjQzLWE5MTctOGEwMjU0YWY0MmZkXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_.jpg"
+  },
+  {
+    "title": "Mr. Mom",
+    "rating": " 6.6",
+    "year": "(1983)",
+    "genre": "Comedy, Drama",
+    "runtime": "91 min",
+    "description": "(1983)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUyMzg0MTkwNV5BMl5BanBnXkFtZTgwOTA2NzEyMDE@._V1_.jpg"
+  },
+  {
+    "title": "The Book of Henry",
+    "rating": " 6.6",
+    "year": "(2017)",
+    "genre": "Crime, Drama, Thriller",
+    "runtime": "105 min",
+    "description": "(2017)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYwNTc0NTM2NF5BMl5BanBnXkFtZTgwNjkyMjg4MTI@._V1_.jpg"
+  },
+  {
+    "title": "Courage Under Fire",
+    "rating": " 6.6",
+    "year": "(1996)",
+    "genre": "Action, Drama, Mystery",
+    "runtime": "116 min",
+    "description": "(1996)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDg5MmIyZmItYzEyYS00NWRiLTkxNWUtYjk1N2YyY2RkMTRlXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg"
+  },
+  {
+    "title": "Last Vegas",
+    "rating": " 6.6",
+    "year": "(2013)",
+    "genre": "Comedy, Drama",
+    "runtime": "105 min",
+    "description": "(2013)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ2ODg2MTIyNF5BMl5BanBnXkFtZTgwMzU2NjgwMDE@._V1_.jpg"
+  },
+  {
+    "title": "Happiest Season",
+    "rating": " 6.6",
+    "year": "(2020)",
+    "genre": "Drama",
+    "runtime": "102 min",
+    "description": "(2020)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDgyZDNiZGEtYmQ4NC00NzU5LTllODQtNjIwMGY2NDYyNGQwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+  },
+  {
+    "title": "New Jack City",
+    "rating": " 6.6",
+    "year": "(1991)",
+    "genre": "Action, Crime, Drama",
+    "runtime": "97 min",
+    "description": "(1991)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZlYzg3NjEtMmFhOS00NTA3LWJlOTktMjFhOWNkMjc0YjBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "Jungle Fever",
+    "rating": " 6.6",
+    "year": "(1991)",
+    "genre": "Drama, Romance",
+    "runtime": "132 min",
+    "description": "(1991)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM5MTQxMDk2Ml5BMl5BanBnXkFtZTgwODQ2MDc3NjE@._V1_.jpg"
+  },
+  {
+    "title": "Demons",
+    "rating": " 6.6",
+    "year": "(1985)",
+    "genre": "Horror",
+    "runtime": "88 min",
+    "description": "(1985)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWE0NTAxOTMtOThkNC00MzZlLTgyODYtYjQ0YmJlYWE3NjEwXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_.jpg"
+  },
+  {
+    "title": "CBGB",
+    "rating": " 6.6",
+    "year": "(2013)",
+    "genre": "Crime, Drama, Music",
+    "runtime": "102 min",
+    "description": "(2013)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg1NDcxODY0OV5BMl5BanBnXkFtZTgwOTgwMzQxMDE@._V1_.jpg"
+  },
+  {
+    "title": "Bad Lieutenant: Port of Call New Orleans",
+    "rating": " 6.6",
+    "year": "(2009)",
+    "genre": "Crime, Drama",
+    "runtime": "122 min",
+    "description": "(2009)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_.jpg"
+  },
+  {
+    "title": "The Final Countdown",
+    "rating": " 6.6",
+    "year": "(1980)",
+    "genre": "Action, Adventure, Sci-Fi",
+    "runtime": "103 min",
+    "description": "(1980)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGU5Y2UzZjMtY2M0ZC00YzE4LWJmYjYtNWNiMTlhNDEzMmViXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg"
+  },
+  {
+    "title": "Phantasm",
+    "rating": " 6.6",
+    "year": "(1979)",
+    "genre": "Horror, Sci-Fi",
+    "runtime": "89 min",
+    "description": "(1979)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTdmN2RkODEtODM4ZS00ZGRlLTliMTYtYmZmZWZkMTZmODYxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "Derailed",
+    "rating": " 6.6",
+    "year": "(I) (2005)",
+    "genre": "Crime, Drama, Thriller",
+    "runtime": "108 min",
+    "description": "(I) (2005)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDI3OTdhOTAtZWIxOC00MDYxLTkxN2QtYjg3ODdlOTA4MGM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "Respect",
+    "rating": " 6.6",
+    "year": "(2021)",
+    "genre": "Biography, Drama, Music",
+    "runtime": "145 min",
+    "description": "(2021)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQxODE4MWQtMTZlMi00N2UwLWEzNGEtOGVkZWVmMzgwYTg5XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg"
+  },
+  {
+    "title": "Edge of Darkness",
+    "rating": " 6.6",
+    "year": "(2010)",
+    "genre": "Action, Drama, Thriller",
+    "runtime": "117 min",
+    "description": "(2010)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTczMDk5MTg5Ml5BMl5BanBnXkFtZTcwOTYyMjE5Mg@@._V1_.jpg"
+  },
+  {
+    "title": "Bad Words",
+    "rating": " 6.6",
+    "year": "(2013)",
+    "genre": "Comedy, Drama",
+    "runtime": "89 min",
+    "description": "(2013)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTI5YjI1YTgtM2EzMC00ZGM4LWE3ZTktZDY2YjU3YmU3YmU5XkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_.jpg"
+  },
+  {
+    "title": "Man on a Ledge",
+    "rating": " 6.6",
+    "year": "(2012)",
+    "genre": "Action, Crime, Thriller",
+    "runtime": "102 min",
+    "description": "(2012)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MTE4MzY2N15BMl5BanBnXkFtZTcwNjMwNDc3Ng@@._V1_.jpg"
+  },
+  {
+    "title": "Alpha",
+    "rating": " 6.6",
+    "year": "(II) (2018)",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "96 min",
+    "description": "(II) (2018)",
+    "image": "https://m.media-amazon.com/images/M/MV5BODI4OTk1ODY3N15BMl5BanBnXkFtZTgwMDI1MTcwNjM@._V1_.jpg"
+  },
+  {
+    "title": "Tuck Everlasting",
+    "rating": " 6.6",
+    "year": "(2002)",
+    "genre": "Drama, Family, Fantasy",
+    "runtime": "90 min",
+    "description": "(2002)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU2NjI0ZTktM2E2Ni00YTMxLTg2NDMtMmIyYTQ4NTY0MWQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "The Loved Ones",
+    "rating": " 6.6",
+    "year": "(2009)",
+    "genre": "Crime, Horror",
+    "runtime": "84 min",
+    "description": "(2009)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzNDQ0MzM0N15BMl5BanBnXkFtZTcwMzA1NDM1Nw@@._V1_.jpg"
+  },
+  {
+    "title": "Kiss of the Dragon",
+    "rating": " 6.6",
+    "year": "(2001)",
+    "genre": "Action, Crime, Thriller",
+    "runtime": "98 min",
+    "description": "(2001)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzM0ZDIxNDYtZDJjMy00NTc5LWIyMTgtMzBhNGRiZTU0ZmRjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "The Girl with All the Gifts",
+    "rating": " 6.6",
+    "year": "(2016)",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "111 min",
+    "description": "(2016)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ0NzA4NDcxM15BMl5BanBnXkFtZTgwMTk1NjUzOTE@._V1_.jpg"
+  },
+  {
+    "title": "Sudden Impact",
+    "rating": " 6.6",
+    "year": "(1983)",
+    "genre": "Action, Crime, Thriller",
+    "runtime": "117 min",
+    "description": "(1983)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTA2NzY5ZTgtNTY3Ni00YTc3LWFhN2ItY2Q4NzljYTRkZTIwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Midnight Special",
+    "rating": " 6.6",
+    "year": "(2016)",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "runtime": "112 min",
+    "description": "(2016)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUwNDcyNzkyOV5BMl5BanBnXkFtZTgwNzI1NzkyNzE@._V1_.jpg"
+  },
+  {
+    "title": "The Beyond",
+    "rating": " 6.6",
+    "year": "(1981)",
+    "genre": "Horror",
+    "runtime": "87 min",
+    "description": "(1981)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjdhMDAzODYtYTg0ZS00OThiLWJmZTEtNjY0ZDJhMTMzMGIxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "The Snowtown Murders",
+    "rating": " 6.6",
+    "year": "(2011)",
+    "genre": "Biography, Crime, Drama",
+    "runtime": "119 min",
+    "description": "(2011)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1NTE3MjkxM15BMl5BanBnXkFtZTcwMjE1Nzg4NA@@._V1_.jpg"
+  },
+  {
+    "title": "Like Crazy",
+    "rating": " 6.6",
+    "year": "(2011)",
+    "genre": "Drama, Romance",
+    "runtime": "86 min",
+    "description": "(2011)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAzOTgyOTU4OF5BMl5BanBnXkFtZTcwNDYxMjcxNg@@._V1_.jpg"
+  },
+  {
+    "title": "Going in Style",
+    "rating": " 6.6",
+    "year": "(2017)",
+    "genre": "Comedy, Crime",
+    "runtime": "96 min",
+    "description": "(2017)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5Mzg3NjI4OF5BMl5BanBnXkFtZTgwNzA3Mzg4MDI@._V1_.jpg"
+  },
+  {
+    "title": "I'm Gonna Git You Sucka",
+    "rating": " 6.6",
+    "year": "(1988)",
+    "genre": "Action, Comedy, Crime",
+    "runtime": "88 min",
+    "description": "(1988)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk0Mjc1MDY0NF5BMl5BanBnXkFtZTcwNzk3MTI0NA@@._V1_.jpg"
+  },
+  {
+    "title": "Toy Soldiers",
+    "rating": " 6.6",
+    "year": "(1991)",
+    "genre": "Action, Drama, Thriller",
+    "runtime": "111 min",
+    "description": "(1991)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQxYzY0OWQtNDFhYS00Yzg2LWE0NDgtOTE0NDQyYTZmYzFkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "The Night Porter",
+    "rating": " 6.6",
+    "year": "(1974)",
+    "genre": "Drama",
+    "runtime": "118 min",
+    "description": "(1974)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjdiNmY4NzgtMmE2Ny00MTYyLTllYjgtNDI5NjY4NWFlMzdiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Silent Running",
+    "rating": " 6.6",
+    "year": "(1972)",
+    "genre": "Drama, Sci-Fi",
+    "runtime": "89 min",
+    "description": "(1972)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmFhMWVkNDAtYTk0OS00M2Q4LWIwNjEtYTUxN2U0YmY1ZTYyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+  },
+  {
+    "title": "The Recruit",
+    "rating": " 6.6",
+    "year": "(2003)",
+    "genre": "Action, Thriller",
+    "runtime": "115 min",
+    "description": "(2003)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE5MDMzOTk3MV5BMl5BanBnXkFtZTYwNTE0NTg2._V1_.jpg"
+  },
+  {
+    "title": "Fear Street: Part Three - 1666",
+    "rating": " 6.6",
+    "year": "(2021)",
+    "genre": "Horror, Mystery",
+    "runtime": "114 min",
+    "description": "(2021)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGMyZmE5YzEtMWUxMS00OWUxLWIxZDktMjY4OTc4NTY0MzZmXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
+  },
+  {
+    "title": "Men, Women & Children",
+    "rating": " 6.6",
+    "year": "(2014)",
+    "genre": "Comedy, Drama",
+    "runtime": "119 min",
+    "description": "(2014)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAwMzc2OTgwOTZeQTJeQWpwZ15BbWU4MDg2ODA4NjIx._V1_.jpg"
+  },
+  {
+    "title": "The Weather Man",
+    "rating": " 6.6",
+    "year": "(2005)",
+    "genre": "Comedy, Drama",
+    "runtime": "102 min",
+    "description": "(2005)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4NzAxMTE3Ml5BMl5BanBnXkFtZTYwMDAwMjY3._V1_.jpg"
+  },
+  {
+    "title": "The Homesman",
+    "rating": " 6.6",
+    "year": "(2014)",
+    "genre": "Drama, Western",
+    "runtime": "122 min",
+    "description": "(2014)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4NTkxOTEyMl5BMl5BanBnXkFtZTgwOTI1NzcwMzE@._V1_.jpg"
+  },
+  {
+    "title": "High Art",
+    "rating": " 6.6",
+    "year": "(1998)",
+    "genre": "Drama, Romance",
+    "runtime": "101 min",
+    "description": "(1998)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY5YjUyNzctNGM2My00YmNkLWI4YjktZmEwYjIyMTE1MWRkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg"
+  },
+  {
+    "title": "New York, New York",
+    "rating": " 6.6",
+    "year": "(1977)",
+    "genre": "Drama, Music, Musical",
+    "runtime": "155 min",
+    "description": "(1977)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmI0Mjg2MzctMjk4Ni00MTUzLWI0NzktNmI0MmJmMmQyZDEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "One Piece Film: Red",
+    "rating": " 6.6",
+    "year": "(2022)",
+    "genre": "Animation, Action, Adventure",
+    "runtime": "115 min",
+    "description": "(2022)",
+    "image": "https://m.media-amazon.com/images/M/MV5BODY4OWM5M2UtM2Y1Yi00YjAyLTlhMDktMDkzZjFmMjI5MmI5XkEyXkFqcGdeQXVyMTA1NjQyNjkw._V1_.jpg"
+  },
+  {
+    "title": "The Villainess",
+    "rating": " 6.6",
+    "year": "(2017)",
+    "genre": "Action, Crime, Drama",
+    "runtime": "124 min",
+    "description": "(2017)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGFlNDViM2QtOTk1ZC00ZDk3LWFhODctZjAwYjdiZDgyNzE2XkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg"
+  },
+  {
+    "title": "*batteries not included",
+    "rating": " 6.6",
+    "year": "(1987)",
+    "genre": "Comedy, Family, Fantasy",
+    "runtime": "106 min",
+    "description": "(1987)",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2JlMDgxOTYtNmI2My00YzY1LWIyZTgtYzY0MjY3Y2RiZmY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg"
+  },
+  {
+    "title": "Max",
+    "rating": " 6.6",
+    "year": "(I) (2015)",
+    "genre": "Adventure, Drama, Family",
+    "runtime": "111 min",
+    "description": "(I) (2015)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA2Nzk0NzIyN15BMl5BanBnXkFtZTgwMjEyNTE5NDE@._V1_.jpg"
+  },
+  {
+    "title": "The Art of Self-Defense",
+    "rating": " 6.6",
+    "year": "(2019)",
+    "genre": "Action, Comedy, Crime",
+    "runtime": "104 min",
+    "description": "(2019)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDlkOGE4YTUtYWRlZS00YjFkLWE3NmUtNzNlNjdiZTk2NzdhXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_.jpg"
+  },
+  {
+    "title": "Meet the Feebles",
+    "rating": " 6.6",
+    "year": "(1989)",
+    "genre": "Comedy, Music, Musical",
+    "runtime": "97 min",
+    "description": "(1989)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmY5MWJmNmUtNTVjNC00MWZhLTk0MjYtZjAwOTVjMTkyMDI5XkEyXkFqcGdeQXVyMTA5ODk3NA@@._V1_.jpg"
+  },
+  {
+    "title": "The Way of the Gun",
+    "rating": " 6.6",
+    "year": "(2000)",
+    "genre": "Action, Crime, Drama",
+    "runtime": "119 min",
+    "description": "(2000)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAyNjEyMDEwMzBeQTJeQWpwZ15BbWU4MDczMjY1NDEy._V1_.jpg"
+  },
+  {
+    "title": "Thank You for Your Service",
+    "rating": " 6.6",
+    "year": "(I) (2017)",
+    "genre": "Biography, Drama, War",
+    "runtime": "109 min",
+    "description": "(I) (2017)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA0NTM5NzgzMjJeQTJeQWpwZ15BbWU4MDAwODc3NjIy._V1_.jpg"
+  },
+  {
+    "title": "Thoroughbreds",
+    "rating": " 6.6",
+    "year": "(2017)",
+    "genre": "Comedy, Crime, Drama",
+    "runtime": "92 min",
+    "description": "(2017)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDcyNDA4NDAzN15BMl5BanBnXkFtZTgwODQxMDQ5NDM@._V1_.jpg"
+  },
+  {
+    "title": "Roxanne",
+    "rating": " 6.6",
+    "year": "(1987)",
+    "genre": "Comedy, Romance",
+    "runtime": "107 min",
+    "description": "(1987)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzljMDgxNjMtNTU2NS00OTczLWEyZWQtZGFjMjcxMGEzZTVhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Paint Your Wagon",
+    "rating": " 6.6",
+    "year": "(1969)",
+    "genre": "Comedy, Drama, Musical",
+    "runtime": "164 min",
+    "description": "(1969)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU4M2YwMjItZThhYi00NDA5LTljYmUtOGNkNjIxYjdiYjBlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg"
+  },
+  {
+    "title": "A Lot Like Love",
+    "rating": " 6.6",
+    "year": "(2005)",
+    "genre": "Comedy, Drama, Romance",
+    "runtime": "107 min",
+    "description": "(2005)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjU1MTYxNl5BMl5BanBnXkFtZTcwMjI2MjgyMQ@@._V1_.jpg"
+  },
+  {
+    "title": "The Company of Wolves",
+    "rating": " 6.6",
+    "year": "(1984)",
+    "genre": "Drama, Fantasy, Horror",
+    "runtime": "95 min",
+    "description": "(1984)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDM0NzY2MTYtNzI4Zi00NzM1LWI1OTktNTVkNWI1ODdlN2IwXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg"
+  },
+  {
+    "title": "Oh, God!",
+    "rating": " 6.6",
+    "year": "(1977)",
+    "genre": "Comedy, Fantasy",
+    "runtime": "98 min",
+    "description": "(1977)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWJhMTZjZGItNWE5Zi00ZDFmLWEyZDctZmI3Mjc4Y2Y1NWFmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "I Love You Phillip Morris",
+    "rating": " 6.6",
+    "year": "(2009)",
+    "genre": "Biography, Comedy, Crime",
+    "runtime": "98 min",
+    "description": "(2009)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTUwZGU1ZTAtOGI4NC00ZDBlLTgxOGItNzdhOWFlNDczZDcxXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg"
+  },
+  {
+    "title": "White Squall",
+    "rating": " 6.6",
+    "year": "(1996)",
+    "genre": "Adventure, Drama",
+    "runtime": "129 min",
+    "description": "(1996)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzE1ZGU3ZGMtZjM3NS00YTA1LWE4MzMtMDcxMWZhMTA2YWRmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Nick and Norah's Infinite Playlist",
+    "rating": " 6.6",
+    "year": "(2008)",
+    "genre": "Comedy, Drama, Music",
+    "runtime": "90 min",
+    "description": "(2008)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY2MjI4ODI4Nl5BMl5BanBnXkFtZTcwNTMyNjM4MQ@@._V1_.jpg"
+  },
+  {
+    "title": "Passing",
+    "rating": " 6.6",
+    "year": "(I) (2021)",
+    "genre": "Drama",
+    "runtime": "98 min",
+    "description": "(I) (2021)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNmZDIxOTctNTNiMi00OGY1LWFiYmEtZmM4YTMyM2NlNzU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+  },
+  {
+    "title": "These Final Hours",
+    "rating": " 6.6",
+    "year": "(2013)",
+    "genre": "Drama, Sci-Fi, Thriller",
+    "runtime": "87 min",
+    "description": "(2013)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU5NTcyMzI3NF5BMl5BanBnXkFtZTgwMTU3OTI0NDE@._V1_.jpg"
+  },
+  {
+    "title": "Outland",
+    "rating": " 6.6",
+    "year": "(1981)",
+    "genre": "Action, Crime, Sci-Fi",
+    "runtime": "109 min",
+    "description": "(1981)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGI2YWEyMGYtYWUwNy00MzkxLWE2MjMtMzUxMzhkZDFkMTI4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg"
+  },
+  {
+    "title": "Juliet, Naked",
+    "rating": " 6.6",
+    "year": "(2018)",
+    "genre": "Comedy, Drama, Music",
+    "runtime": "97 min",
+    "description": "(2018)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTE3ODg1Ml5BMl5BanBnXkFtZTgwMTI4NTE4NTM@._V1_.jpg"
+  },
+  {
+    "title": "Whiskey Tango Foxtrot",
+    "rating": " 6.6",
+    "year": "(2016)",
+    "genre": "Biography, Comedy, Drama",
+    "runtime": "112 min",
+    "description": "(2016)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxOTIzMTM5OF5BMl5BanBnXkFtZTgwNDIxNTA1NzE@._V1_.jpg"
+  },
+  {
+    "title": "Brain on Fire",
+    "rating": " 6.6",
+    "year": "(2016)",
+    "genre": "Biography, Drama",
+    "runtime": "88 min",
+    "description": "(2016)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmY0OThiYWQtMTAzYi00N2FiLWFlYWUtZDUzYzJiY2RlNjEwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg"
+  },
+  {
+    "title": "Bad Guy",
+    "rating": " 6.6",
+    "year": "(2001)",
+    "genre": "Drama, Romance",
+    "runtime": "100 min",
+    "description": "(2001)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTI5MTc3MV5BMl5BanBnXkFtZTcwNzc1MTkyMQ@@._V1_.jpg"
+  },
+  {
+    "title": "Gigi",
+    "rating": " 6.6",
+    "year": "(1958)",
+    "genre": "Comedy, Musical, Romance",
+    "runtime": "115 min",
+    "description": "(1958)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWIzNzlkMWUtY2VhYy00NWMwLTg3MWUtZWY4ODZjMjBiMmM1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg"
+  },
+  {
+    "title": "Irrational Man",
+    "rating": " 6.6",
+    "year": "(2015)",
+    "genre": "Comedy, Crime, Drama",
+    "runtime": "95 min",
+    "description": "(2015)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE2NTM0Mzk5Ml5BMl5BanBnXkFtZTgwMzQ3Njc3NTE@._V1_.jpg"
+  },
+  {
+    "title": "Soapdish",
+    "rating": " 6.6",
+    "year": "(1991)",
+    "genre": "Comedy, Romance",
+    "runtime": "97 min",
+    "description": "(1991)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjc1Y2ZlNDktNmQzOC00ZTA0LThlNTAtMjNlODVmMzA1MzQ4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+  },
+  {
+    "title": "Arbitrage",
+    "rating": " 6.6",
+    "year": "(2012)",
+    "genre": "Drama, Thriller",
+    "runtime": "107 min",
+    "description": "(2012)",
+    "image": "https://m.media-amazon.com/images/M/MV5BODU5ODYyNzM1MF5BMl5BanBnXkFtZTcwNDEwNTQwOA@@._V1_.jpg"
+  },
+  {
+    "title": "A Civil Action",
+    "rating": " 6.6",
+    "year": "(1998)",
+    "genre": "Drama",
+    "runtime": "115 min",
+    "description": "(1998)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY4YjAwODMtMTQ2ZS00NGM3LTkzNzEtMGM1MmMwZjNiZjQyXkEyXkFqcGdeQXVyNjgxNTE1MDY@._V1_.jpg"
+  },
+  {
+    "title": "The Greatest Show on Earth",
+    "rating": " 6.6",
+    "year": "(1952)",
+    "genre": "Drama, Family, Romance",
+    "runtime": "152 min",
+    "description": "(1952)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzg5MWIyMjItYWMyYS00YTFjLWFlZGMtZTJkNzgyY2VmY2U2XkEyXkFqcGdeQXVyNzE2NDk3NTY@._V1_.jpg"
+  },
+  {
+    "title": "16 Blocks",
+    "rating": " 6.6",
+    "year": "(2006)",
+    "genre": "Action, Drama, Thriller",
+    "runtime": "102 min",
+    "description": "(2006)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NDEwMzEwMl5BMl5BanBnXkFtZTcwNzM4MTEzMw@@._V1_.jpg"
+  },
+  {
+    "title": "Hoffa",
+    "rating": " 6.6",
+    "year": "(1992)",
+    "genre": "Biography, Crime, Drama",
+    "runtime": "140 min",
+    "description": "(1992)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWNlMGRmYmEtZGNiZS00NzdiLTk2ZWUtZjEyY2U3NjM0MGRlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Smallfoot",
+    "rating": " 6.6",
+    "year": "(2018)",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "96 min",
+    "description": "(2018)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTVkYTZlZWItZTc0ZS00MTIzLThlNjItNmNkNDA5YzIwZGZjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+  },
+  {
+    "title": "Shaft",
+    "rating": " 6.6",
+    "year": "(1971)",
+    "genre": "Action, Crime, Thriller",
+    "runtime": "100 min",
+    "description": "(1971)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGY2MDFlMTAtODU3NS00MDkxLThiMTItMTBlMDliNmMwOGQxXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg"
+  },
+  {
+    "title": "Auto Focus",
+    "rating": " 6.6",
+    "year": "(2002)",
+    "genre": "Biography, Crime, Drama",
+    "runtime": "105 min",
+    "description": "(2002)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzVmMDZiMWUtN2FkYS00ZDBkLWFjODctZTJkYTdlOTY3YzU2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Dark Blue",
+    "rating": " 6.6",
+    "year": "(2002)",
+    "genre": "Crime, Drama, Thriller",
+    "runtime": "118 min",
+    "description": "(2002)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjg5YjdiYjYtZmNmNC00YTFkLWFhMjQtNTE1MDJlYjAyOGVkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Celeste & Jesse Forever",
+    "rating": " 6.6",
+    "year": "(2012)",
+    "genre": "Comedy, Drama, Romance",
+    "runtime": "92 min",
+    "description": "(2012)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM0Mzk3MTY1N15BMl5BanBnXkFtZTcwNDcwNTg5Nw@@._V1_.jpg"
+  },
+  {
+    "title": "The Command",
+    "rating": " 6.6",
+    "year": "(2018)",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "117 min",
+    "description": "(2018)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc4MTIxMWEtMmRhNC00NWEzLWExMWQtMmNiNjA1MDlkZjk3XkEyXkFqcGdeQXVyMTkxODQ4MDg@._V1_.jpg"
+  },
+  {
+    "title": "Strange Brew",
+    "rating": " 6.6",
+    "year": "(1983)",
+    "genre": "Comedy, Crime, Sci-Fi",
+    "runtime": "90 min",
+    "description": "(1983)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNmNmE1ZWQtNWYxNi00YjdjLWE2MTMtZjdiYzdmNjc2YzdjL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg"
+  },
+  {
+    "title": "Black Beauty",
+    "rating": " 6.6",
+    "year": "(1994)",
+    "genre": "Adventure, Drama, Family",
+    "runtime": "88 min",
+    "description": "(1994)",
+    "image": "https://m.media-amazon.com/images/M/MV5BODUwYmY3ODUtOTE3Zi00OTEyLTkwOWEtZWE0MTAzYmNkNzI0XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg"
+  },
+  {
+    "title": "True Crime",
+    "rating": " 6.6",
+    "year": "(1999)",
+    "genre": "Crime, Drama, Mystery",
+    "runtime": "127 min",
+    "description": "(1999)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzYxMzJlNTUtYzBiNi00NWJmLThmOTAtYTMyYjdlY2Y4YzE0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "The Immigrant",
+    "rating": " 6.6",
+    "year": "(2013)",
+    "genre": "Drama, Romance",
+    "runtime": "120 min",
+    "description": "(2013)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQ2OTAyNTUzNl5BMl5BanBnXkFtZTgwMTkxNzA2MTE@._V1_.jpg"
+  },
+  {
+    "title": "Yentl",
+    "rating": " 6.6",
+    "year": "(1983)",
+    "genre": "Drama, Musical, Romance",
+    "runtime": "133 min",
+    "description": "(1983)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA0ODQzZjItNTk5Mi00ZDc3LWFjZGItZWU0MjM2NzViYjZlXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg"
+  },
+  {
+    "title": "Faster, Pussycat! Kill! Kill!",
+    "rating": " 6.6",
+    "year": "(1965)",
+    "genre": "Action, Comedy",
+    "runtime": "83 min",
+    "description": "(1965)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzQzODhjOTktZDY2ZS00Y2E0LTgwZWEtNzdlOWI4MjY4OWMyXkEyXkFqcGdeQXVyMjUxOTQ5MzA@._V1_.jpg"
+  },
+  {
+    "title": "The Door in the Floor",
+    "rating": " 6.6",
+    "year": "(2004)",
+    "genre": "Comedy, Drama",
+    "runtime": "111 min",
+    "description": "(2004)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYyNTIxODA1M15BMl5BanBnXkFtZTYwMzY1NjY3._V1_.jpg"
+  },
+  {
+    "title": "Plus One",
+    "rating": " 6.6",
+    "year": "(I) (2019)",
+    "genre": "Comedy, Drama, Romance",
+    "runtime": "98 min",
+    "description": "(I) (2019)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGU4YWExMDQtMzMyZi00MWUwLWFkYzctMDVjOWI5NzM4ZmQ4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
+  },
+  {
+    "title": "Above the Rim",
+    "rating": " 6.6",
+    "year": "(1994)",
+    "genre": "Crime, Drama, Sport",
+    "runtime": "96 min",
+    "description": "(1994)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE5M2I4OWEtZDUyMS00ODYwLTkxNWYtZmNlNjEzOWRlYjc0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "Judgment Night",
+    "rating": " 6.6",
+    "year": "(1993)",
+    "genre": "Action, Crime, Drama",
+    "runtime": "110 min",
+    "description": "(1993)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmYzNDBhMTItZGJjMy00MjE1LTk2YmQtZGY2ZmQ0NDYzOTM1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Easy Virtue",
+    "rating": " 6.6",
+    "year": "(2008)",
+    "genre": "Comedy, Romance",
+    "runtime": "97 min",
+    "description": "(2008)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmViYjQ0YTUtMjNmZi00NTI4LWEwYTgtYTllNTY4YjRlYzNmXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg"
+  },
+  {
+    "title": "Guava Island",
+    "rating": " 6.6",
+    "year": "(2019)",
+    "genre": "Comedy, Drama, Music",
+    "runtime": "55 min",
+    "description": "(2019)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmZiZWNlNTktYTZiYS00YTYzLTgyMjQtNTQ5OTE2NjhjY2ZkXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_.jpg"
+  },
+  {
+    "title": "The Nutty Professor",
+    "rating": " 6.6",
+    "year": "(1963)",
+    "genre": "Comedy, Romance, Sci-Fi",
+    "runtime": "107 min",
+    "description": "(1963)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTE3NzVmZWItNDU4OC00YWFmLThhZjUtZTMwZWQ0ZTcyYWM3XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg"
+  },
+  {
+    "title": "Luce",
+    "rating": " 6.6",
+    "year": "(I) (2019)",
+    "genre": "Drama, Mystery, Thriller",
+    "runtime": "109 min",
+    "description": "(I) (2019)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjkwMDMwOTQtM2MwMS00NjVmLThlODgtZmYyZjBhMjgzYTM3XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_.jpg"
+  },
+  {
+    "title": "Rock 'n' Roll High School",
+    "rating": " 6.6",
+    "year": "(1979)",
+    "genre": "Comedy, Music",
+    "runtime": "93 min",
+    "description": "(1979)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTk4NTBlODMtOWRjZi00MjAyLWE0YmQtNGU5Yjk3NzgyNmM2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+  },
+  {
+    "title": "Super Dark Times",
+    "rating": " 6.6",
+    "year": "(2017)",
+    "genre": "Crime, Drama, Horror",
+    "runtime": "103 min",
+    "description": "(2017)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NzU2ODA5OF5BMl5BanBnXkFtZTgwNTk1ODkwMzI@._V1_.jpg"
+  },
+  {
+    "title": "Scoop",
+    "rating": " 6.6",
+    "year": "(2006)",
+    "genre": "Comedy, Crime, Fantasy",
+    "runtime": "96 min",
+    "description": "(2006)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTIzYzNlNDYtZGU4Mi00Njg3LWJjZGYtODZlZjE1NTNiMzAzXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg"
+  },
+  {
+    "title": "Miracle on 34th Street",
+    "rating": " 6.6",
+    "year": "(1994)",
+    "genre": "Drama, Family, Fantasy",
+    "runtime": "114 min",
+    "description": "(1994)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjk3M2UyN2YtNmQ1MS00MWI3LWEzNGMtYTRkM2E5MWNjOWJjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "High Anxiety",
+    "rating": " 6.6",
+    "year": "(1977)",
+    "genre": "Comedy, Mystery, Thriller",
+    "runtime": "94 min",
+    "description": "(1977)",
+    "image": "https://m.media-amazon.com/images/M/MV5BODM5NjczZWEtOTc4ZS00NTI4LWJiMGEtNzY4YzFlYmNjY2NmXkEyXkFqcGdeQXVyMTI1NDQ4NQ@@._V1_.jpg"
+  },
+  {
+    "title": "Grumpier Old Men",
+    "rating": " 6.6",
+    "year": "(1995)",
+    "genre": "Comedy, Romance",
+    "runtime": "101 min",
+    "description": "(1995)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQxM2YyNjMtZjUxYy00OGYyLTg0MmQtNGE2YzNjYmUyZTY1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "Wish I Was Here",
+    "rating": " 6.6",
+    "year": "(2014)",
+    "genre": "Comedy, Drama",
+    "runtime": "106 min",
+    "description": "(2014)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI1MTM5NTY2Nl5BMl5BanBnXkFtZTgwODE4OTk4MTE@._V1_.jpg"
+  },
+  {
+    "title": "The Dead Girl",
+    "rating": " 6.6",
+    "year": "(2006)",
+    "genre": "Crime, Drama, Mystery",
+    "runtime": "85 min",
+    "description": "(2006)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzE4MDYzMzg3MF5BMl5BanBnXkFtZTcwNDU2ODA0MQ@@._V1_.jpg"
+  },
+  {
+    "title": "Take the Lead",
+    "rating": " 6.6",
+    "year": "(2006)",
+    "genre": "Drama, Music",
+    "runtime": "118 min",
+    "description": "(2006)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAwODMxMjk2OF5BMl5BanBnXkFtZTYwNDEwMTY2._V1_.jpg"
+  },
+  {
+    "title": "The Odd Life of Timothy Green",
+    "rating": " 6.6",
+    "year": "(2012)",
+    "genre": "Comedy, Drama, Family",
+    "runtime": "105 min",
+    "description": "(2012)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTNkYjM1YTAtYTFiOC00ZDY2LWI5ZDYtODEwZDM4ZDljNDgwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+  },
+  {
+    "title": "Promised Land",
+    "rating": " 6.6",
+    "year": "(2012)",
+    "genre": "Drama",
+    "runtime": "106 min",
+    "description": "(2012)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxNDYzNzgyOF5BMl5BanBnXkFtZTcwNTU0NTI1OA@@._V1_.jpg"
+  },
+  {
+    "title": "The Mirror Has Two Faces",
+    "rating": " 6.6",
+    "year": "(1996)",
+    "genre": "Comedy, Drama, Romance",
+    "runtime": "126 min",
+    "description": "(1996)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFjOWY0YWItZWNhOC00YmQyLWJhNDktMzEzNWZhMTg2YTQ2XkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg"
+  },
+  {
+    "title": "Clockwise",
+    "rating": " 6.6",
+    "year": "(1986)",
+    "genre": "Comedy",
+    "runtime": "96 min",
+    "description": "(1986)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTAyYzFlOWUtYWUzYy00MzU0LWFhODYtOTUzNjI2ODkzYWQwXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg"
+  },
+  {
+    "title": "My Blueberry Nights",
+    "rating": " 6.6",
+    "year": "(2007)",
+    "genre": "Drama, Romance",
+    "runtime": "95 min",
+    "description": "(2007)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmExMzllOWItNzliNi00YWQ1LTkxOGItNzZmYmUzNDU2M2MyXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg"
+  },
+  {
+    "title": "Revenge of the Pink Panther",
+    "rating": " 6.6",
+    "year": "(1978)",
+    "genre": "Comedy, Crime, Mystery",
+    "runtime": "99 min",
+    "description": "(1978)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDI1ZTIxYjgtNWY1Ni00ODZlLTk1ZjQtZWZhNmM0ZmE4ZmNjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Next Gen",
+    "rating": " 6.6",
+    "year": "(I) (2018)",
+    "genre": "Animation, Action, Adventure",
+    "runtime": "106 min",
+    "description": "(I) (2018)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg"
+  },
+  {
+    "title": "Cracks",
+    "rating": " 6.6",
+    "year": "(I) (2009)",
+    "genre": "Drama, Thriller",
+    "runtime": "104 min",
+    "description": "(I) (2009)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGNhYjU5N2EtZGIzYi00ODY2LTg2NWEtNTQ3NTM0ODRlNzFlXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg"
+  },
+  {
+    "title": "Light of My Life",
+    "rating": " 6.6",
+    "year": "(I) (2019)",
+    "genre": "Drama, Sci-Fi, Thriller",
+    "runtime": "119 min",
+    "description": "(I) (2019)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGY4ODlhYTYtNzgwZS00NDE5LWJlZjAtNTZjODIxMWIwZWI1XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg"
+  },
+  {
+    "title": "Torn Curtain",
+    "rating": " 6.6",
+    "year": "(1966)",
+    "genre": "Drama, Romance, Thriller",
+    "runtime": "128 min",
+    "description": "(1966)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTYwODI4NjcwOV5BMl5BanBnXkFtZTgwMzU0OTk5MTE@._V1_.jpg"
+  },
+  {
+    "title": "The Beaver",
+    "rating": " 6.6",
+    "year": "(2011)",
+    "genre": "Drama",
+    "runtime": "91 min",
+    "description": "(2011)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzYyMDQ5Njg4Nl5BMl5BanBnXkFtZTcwNDEyOTYxNA@@._V1_.jpg"
+  },
+  {
+    "title": "Wuthering Heights",
+    "rating": " 6.6",
+    "year": "(1992)",
+    "genre": "Drama, History, Romance",
+    "runtime": "105 min",
+    "description": "(1992)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjNkZTIyOTctMGU3Yi00ZmI1LTljNDctMTAzNzBmYWFmYWZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+  },
+  {
+    "title": "Pride and Glory",
+    "rating": " 6.6",
+    "year": "(2008)",
+    "genre": "Crime, Drama, Thriller",
+    "runtime": "130 min",
+    "description": "(2008)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI2Mjg1MDk3OV5BMl5BanBnXkFtZTcwMjU4MTM5MQ@@._V1_.jpg"
+  },
+  {
+    "title": "Luther",
+    "rating": " 6.6",
+    "year": "(2003)",
+    "genre": "Biography, Drama, History",
+    "runtime": "123 min",
+    "description": "(2003)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjBkNmMwNzgtNGFkNC00YTc3LWEzY2UtY2U3NDBlNWQyMTZiXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg"
+  },
+  {
+    "title": "The Best Man Holiday",
+    "rating": " 6.6",
+    "year": "(2013)",
+    "genre": "Comedy, Drama",
+    "runtime": "123 min",
+    "description": "(2013)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjU0MTI1MDg5Ml5BMl5BanBnXkFtZTgwNzc2MTMzMDE@._V1_.jpg"
+  },
+  {
+    "title": "The Business",
+    "rating": " 6.6",
+    "year": "(2005)",
+    "genre": "Crime, Drama, Thriller",
+    "runtime": "97 min",
+    "description": "(2005)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBkNWRmM2ItZmNlZS00ZjA0LWI5OTItYzE1M2Q0OWFmOWU0XkEyXkFqcGdeQXVyMTQ4NzE4NzMx._V1_.jpg"
+  },
+  {
+    "title": "When the Game Stands Tall",
+    "rating": " 6.6",
+    "year": "(2014)",
+    "genre": "Biography, Drama, Family",
+    "runtime": "115 min",
+    "description": "(2014)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ5NDMzOTI3MV5BMl5BanBnXkFtZTgwMjU4MTMyMjE@._V1_.jpg"
+  },
+  {
+    "title": "Ice Station Zebra",
+    "rating": " 6.6",
+    "year": "(1968)",
+    "genre": "Adventure, Thriller",
+    "runtime": "148 min",
+    "description": "(1968)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWFmM2FjNjQtNzk5Ny00NDcxLWFiZTEtYmVjMjMxZWQ3NDA3XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg"
+  },
+  {
+    "title": "Bamboozled",
+    "rating": " 6.6",
+    "year": "(2000)",
+    "genre": "Comedy, Drama, Music",
+    "runtime": "135 min",
+    "description": "(2000)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODIzMjUyMV5BMl5BanBnXkFtZTYwNzEyMzY3._V1_.jpg"
+  },
+  {
+    "title": "Ronal the Barbarian",
+    "rating": " 6.6",
+    "year": "(2011)",
+    "genre": "Animation, Action, Adventure",
+    "runtime": "89 min",
+    "description": "(2011)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBlMWUyNDEtMDY2OS00M2NlLTkyNzYtN2Q4ZjQ4OWE5M2Y4XkEyXkFqcGdeQXVyNTMwNDQzODA@._V1_.jpg"
   }
 ]
