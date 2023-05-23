@@ -37,7 +37,7 @@ export default function Home() {
                 color="black"
                 width="300px"
               >
-                New movie
+                new movie
               </Button>
             </Box>
           </Center>
