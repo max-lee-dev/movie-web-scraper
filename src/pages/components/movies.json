@@ -21629,4 +21629,223 @@
     "description": "(2017)",
     "image": "https://m.media-amazon.com/images/M/MV5BNzUyM2EzOTEtOTMwMi00NzMwLWEyYTAtZGYxYzMyZDgyNGUyXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_.jpg"
   }
+  ,
+  {
+    "title": "Dorian Gray",
+    "rating": " 6.2",
+    "year": "(2009)",
+    "genre": "Drama, Fantasy, Mystery",
+    "runtime": "112 min",
+    "description": "(2009)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5ODc1NjU5N15BMl5BanBnXkFtZTcwMTUyNDg3Mg@@._V1_.jpg"
+  },
+  {
+    "title": "The Beastmaster",
+    "rating": " 6.2",
+    "year": "(1982)",
+    "genre": "Action, Adventure, Fantasy",
+    "runtime": "118 min",
+    "description": "(1982)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExNzBhYTgtYzc2MC00YmZiLTkxZTYtZDdkNmI5NTFkMjc5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg"
+  },
+  {
+    "title": "Anger Management",
+    "rating": " 6.2",
+    "year": "(2003)",
+    "genre": "Comedy",
+    "runtime": "106 min",
+    "description": "(2003)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDg1YTNiODItZGYyOC00NGIwLWI3MjYtMTY3NDQ0ZDIwYjBiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "The Cursed",
+    "rating": " 6.2",
+    "year": "(2021)",
+    "genre": "Fantasy, Horror, Mystery",
+    "runtime": "111 min",
+    "description": "(2021)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWI0ZjNlOTctYWFmOC00OWQ1LWE5YmYtMGJmYjg1ZWVjNzU3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+  },
+  {
+    "title": "Saw III",
+    "rating": " 6.2",
+    "year": "(2006)",
+    "genre": "Horror, Mystery, Thriller",
+    "runtime": "108 min",
+    "description": "(2006)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWVjMzgwMTctZmZjNC00ZmE0LThiNTUtYzkyM2RkYWIzY2Y2XkEyXkFqcGdeQXVyNjEyNDAyMzI@._V1_.jpg"
+  },
+  {
+    "title": "Endless Love",
+    "rating": " 6.2",
+    "year": "(2014)",
+    "genre": "Drama, Romance",
+    "runtime": "104 min",
+    "description": "(2014)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTYzNDU1MzEyN15BMl5BanBnXkFtZTgwOTYwMTU0MDE@._V1_.jpg"
+  },
+  {
+    "title": "Mother's Day",
+    "rating": " 6.2",
+    "year": "(I) (2010)",
+    "genre": "Drama, Horror, Thriller",
+    "runtime": "112 min",
+    "description": "(I) (2010)",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWI0YTFlMGQtMjVkYS00OTU2LWJkZjUtMjliZDQ0OGIxNzI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "Killer Klowns from Outer Space",
+    "rating": " 6.2",
+    "year": "(1988)",
+    "genre": "Comedy, Horror, Sci-Fi",
+    "runtime": "88 min",
+    "description": "(1988)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDM5YzZmZjUtMjkzOS00ODBkLWE1OWUtODdmMTYzOTQwNDRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "Despicable Me 3",
+    "rating": " 6.2",
+    "year": "(2017)",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "89 min",
+    "description": "(2017)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_.jpg"
+  },
+  {
+    "title": "Heartbreakers",
+    "rating": " 6.2",
+    "year": "(2001)",
+    "genre": "Comedy, Crime, Romance",
+    "runtime": "123 min",
+    "description": "(2001)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NjE3NjQzOF5BMl5BanBnXkFtZTcwMDIwOTA0NA@@._V1_.jpg"
+  },
+  {
+    "title": "A Night at the Roxbury",
+    "rating": " 6.2",
+    "year": "(1998)",
+    "genre": "Comedy, Music, Romance",
+    "runtime": "82 min",
+    "description": "(1998)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTFjYmQ2ZTAtNGE4YS00NzMxLWIwZjItMjcyYzdjODRmZWQ1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg"
+  },
+  {
+    "title": "Copshop",
+    "rating": " 6.2",
+    "year": "(2021)",
+    "genre": "Action, Thriller",
+    "runtime": "107 min",
+    "description": "(2021)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTZjZWYzYjMtMmNlYi00MTdkLWI4OTMtMmVhM2QzZjZiZTZiXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg"
+  },
+  {
+    "title": "Cat People",
+    "rating": " 6.2",
+    "year": "(1982)",
+    "genre": "Fantasy, Horror, Thriller",
+    "runtime": "118 min",
+    "description": "(1982)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTdmMjgxNjItNmUyYS00NGQwLWJhZjYtNjIwMWU0ZmQzZThjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg"
+  },
+  {
+    "title": "Cold Pursuit",
+    "rating": " 6.2",
+    "year": "(2019)",
+    "genre": "Action, Comedy, Crime",
+    "runtime": "119 min",
+    "description": "(2019)",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2YyYWI3NjItMWEwZS00MzhkLWJmZTMtZDAzYjRhODM0OTMzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg"
+  },
+  {
+    "title": "Baby's Day Out",
+    "rating": " 6.2",
+    "year": "(1994)",
+    "genre": "Adventure, Comedy, Crime",
+    "runtime": "99 min",
+    "description": "(1994)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzI3NmQ1ZDUtZWQ1My00NzlkLWE5OGQtZjZkYWJmYzYwY2QxXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg"
+  },
+  {
+    "title": "Frozen",
+    "rating": " 6.2",
+    "year": "(I) (2010)",
+    "genre": "Adventure, Drama, Mystery",
+    "runtime": "93 min",
+    "description": "(I) (2010)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MTg0ODgxMF5BMl5BanBnXkFtZTcwODEzOTYwMw@@._V1_.jpg"
+  },
+  {
+    "title": "Why Him?",
+    "rating": " 6.2",
+    "year": "(2016)",
+    "genre": "Comedy",
+    "runtime": "111 min",
+    "description": "(2016)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDlkMDQ1NzUtNGE3OC00NmUwLWI0NjAtNDJmODUzY2NhOGIzL2ltYWdlXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_.jpg"
+  },
+  {
+    "title": "War",
+    "rating": " 6.2",
+    "year": "(2007)",
+    "genre": "Action, Crime, Thriller",
+    "runtime": "103 min",
+    "description": "(2007)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTIwMjE2Mjc1MF5BMl5BanBnXkFtZTYwNzI0OTI3._V1_.jpg"
+  },
+  {
+    "title": "Summer Rental",
+    "rating": " 6.2",
+    "year": "(1985)",
+    "genre": "Comedy",
+    "runtime": "87 min",
+    "description": "(1985)",
+    "image": "https://m.media-amazon.com/images/M/MV5BODkxMjUzYzEtNjA0My00M2Q4LWE0NzEtMDIxYTdhM2Y3ZDgzL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "The Wall",
+    "rating": " 6.2",
+    "year": "(II) (2017)",
+    "genre": "Action, Drama, Thriller",
+    "runtime": "88 min",
+    "description": "(II) (2017)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5ODMyNzE4OF5BMl5BanBnXkFtZTgwNTM0Mzc4MTI@._V1_.jpg"
+  },
+  {
+    "title": "Crisis",
+    "rating": " 6.2",
+    "year": "(2021)",
+    "genre": "Drama, Thriller",
+    "runtime": "118 min",
+    "description": "(2021)",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTZiNDAyNWQtYTRkOS00YjdhLTlhNGYtOTZiMWRiNmQ2ODcwXkEyXkFqcGdeQXVyMTE0MDM5OTU2._V1_.jpg"
+  },
+  {
+    "title": "Jersey Girl",
+    "rating": " 6.2",
+    "year": "(2004)",
+    "genre": "Comedy, Drama, Romance",
+    "runtime": "102 min",
+    "description": "(2004)",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYxMTZlNTEtMjlmZS00ODFiLTg5ODUtYzJkMzc1MGNhYjVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "The Nanny Diaries",
+    "rating": " 6.2",
+    "year": "(2007)",
+    "genre": "Comedy, Drama, Romance",
+    "runtime": "105 min",
+    "description": "(2007)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxMjU5MTY0Ml5BMl5BanBnXkFtZTcwNzU4NjU0MQ@@._V1_.jpg"
+  },
+  {
+    "title": "Eraser",
+    "rating": " 6.2",
+    "year": "(1996)",
+    "genre": "Action, Crime, Thriller",
+    "runtime": "115 min",
+    "description": "(1996)",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDNlZGNkY2YtNjA1NS00NDZhLWFhZGEtMzlmMWIyMDI1M2ZiXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg"
+  }
+
+
 ]
