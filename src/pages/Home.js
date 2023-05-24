@@ -22,7 +22,7 @@ export default function Home() {
         <VStack>
           <HStack>
             <Text maxW="1000px" fontSize="25px" fontWeight="600">
-              {randomMovie.title} 
+              {randomMovie.title}
             </Text>
             <Text>{randomMovie.year} </Text>
           </HStack>
@@ -37,7 +37,7 @@ export default function Home() {
                 color="black"
                 width="300px"
               >
-                new movie
+                New movie
               </Button>
             </Box>
           </Center>
