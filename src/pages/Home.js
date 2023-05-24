@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import movies from "./components/movies.json";
+import allmovies from "./components/allmovies.json";
 import logo from "./components/movie.png";
 import {
   Box,
@@ -16,7 +16,7 @@ import {
 export default function Home() {
   const [randInt, setRandInt] = useState(0);
   function RandomMovie() {
-    let randomMovie = movies[randInt];
+    let randomMovie = allmovies[randInt];
     return (
       <Box color="#2e2323">
         <VStack>
@@ -103,9 +103,9 @@ export default function Home() {
   }
 
   function getRandInt() {
-    let tryrandInt = Math.floor(Math.random() * movies.length);
+    let tryrandInt = Math.floor(Math.random() * allmovies.length);
     while (randInt === tryrandInt) {
-      tryrandInt = Math.floor(Math.random() * movies.length);
+      tryrandInt = Math.floor(Math.random() * allmovies.length);
     }
     setRandInt(tryrandInt);
   }
