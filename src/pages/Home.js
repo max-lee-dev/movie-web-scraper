@@ -18,7 +18,85 @@ export default function Home() {
   function RandomMovie() {
     let randomMovie = allmovies[randInt];
     return (
-      <Box color="#2e2323">
+      /*
+      <Center>
+      <Text paddingTop='30px' paddingBottom='50px' fontWeight={600} fontSize='30px' color={config["mainText"]}> sign up </Text>
+    </Center>
+    <form onSubmit={register}>
+      <Box color={config['mainText']} className={'placeholder'} width="100%">
+        <Input
+          placeholder="Username"
+          _hover={{ borderColor: config["mainText"]}}
+
+          borderColor={config["subtleText"]}
+          onChange={(event) => {
+            setUsername(event.target.value);
+          }}
+        />
+        <Input
+          placeholder="Email"
+          marginTop={'10px'}
+          _hover={{ borderColor: config["mainText"]}}
+
+          borderColor={config["subtleText"]}
+          onChange={(event) => {
+            setRegisterEmail(event.target.value);
+          }}
+        />
+        <Input
+          placeholder="Password"
+          marginTop={'10px'}
+          _hover={{ borderColor: config["mainText"]}}
+
+          borderColor={config["subtleText"]}
+          type="password"
+          onChange={(event) => {
+            setRegisterPassword(event.target.value);
+          }}
+        />
+        <Input
+          marginTop={'10px'}
+          _hover={{ borderColor: config["mainText"]}}
+
+          borderColor={config["subtleText"]}
+          placeholder="Confirm Password"
+          type="password"
+
+          onChange={(event) => {
+            setConfirmPassword(event.target.value);
+          }}
+        />
+        <Center>
+          <p className="currentIncorrect">{registerErrorMessage}</p>
+        </Center>
+        <Center className="standardButton">
+
+          <Button marginTop="10px"
+            type="submit"
+            backgroundColor={"#555"}
+            onClick={register}>
+            <Box paddingTop='10px' minWidth='150%' minHeight='100%' bg={config["themeInactiveButton"]}>
+              sign up
+            </Box>
+          </Button>
+
+        </Center>
+        <Center>
+          <Box paddingTop={'10px'} color={config["subtleText"]}>
+            have an account?{" "}<Button onClick={() => setLoginPage(true)} color={config["subtleText"]} className={'underline'} variant="link">log in</Button>
+          </Box>
+        </Center>
+      </Box>
+    </form>
+  </Box>
+  */
+      <Box
+        borderRadius="15px"
+        paddingTop="10px"
+        color="black"
+        minW="150%"
+        boxShadow={"0px 1px 15px 3px rgba(0, 0, 0, 0.12)"}
+      >
         <VStack>
           <HStack>
             <Text maxW="1000px" fontSize="25px" fontWeight="600">
@@ -29,8 +107,8 @@ export default function Home() {
           <Center>
             <Box>
               <Button
-                _hover={{ bg: "#ff685e", color: "white" }}
-                bg="#ffe0de"
+                _hover={{ bg: "#9e9e9e", color: "white" }}
+                bg="#c9c9c9"
                 onClick={() => getRandInt()}
                 fontSize="24px"
                 fontWeight="400"
@@ -117,7 +195,7 @@ export default function Home() {
 
   return (
     <Center>
-      <Box minH="95vh" width="70%" className="font">
+      <Box minH="95vh" className="font">
         <Center>
           <VStack>
             <HStack>
@@ -130,13 +208,15 @@ export default function Home() {
                 <ion-icon name="videocam"></ion-icon>{" "}
               </Box>
 
-              <Text color="#ffe0de" fontWeight="900" fontSize="30px">
+              <Text color="black" fontWeight="600" fontSize="30px">
                 movie-web-scraper
               </Text>
             </HStack>
 
             <Box paddingTop="50px">
-              <RandomMovie />
+              <Center>
+                <RandomMovie />
+              </Center>
             </Box>
           </VStack>
         </Center>
